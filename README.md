@@ -15,7 +15,7 @@ Estudante do curso de Sistemas de Informações no Instuto Federal do Espirito S
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise dos Dados do Airbnb:** https://github.com/thiagobcoelho25/analise-airbnb-sigmoidal
 
 
 ---
