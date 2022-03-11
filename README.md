@@ -15,8 +15,8 @@ Estudante do curso de Sistemas de Informações no Instuto Federal do Espirito S
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb:** https://github.com/thiagobcoelho25/analise-airbnb-sigmoidal
-
+* **[Análise dos Dados do Airbnb - San Diego](https://github.com/thiagobcoelho25/analise-airbnb-sigmoidal)**
+* **[Análise Panorama do Covid-19 no Brasil e no Mundo](https://github.com/thiagobcoelho25/Panorama_COVID_19)**
 
 ---
 
