@@ -17,6 +17,7 @@ Estudante do curso de Sistemas de Informações no Instuto Federal do Espirito S
 
 * **[Análise dos Dados do Airbnb - San Diego](https://github.com/thiagobcoelho25/analise-airbnb-sigmoidal)**
 * **[Análise Panorama do Covid-19 no Brasil e no Mundo](https://github.com/thiagobcoelho25/Panorama_COVID_19)**
+* **[Detecção de Fraudes em Cartões de Crédito Utilizando Machine Learning](https://github.com/thiagobcoelho25/ML_Deteccao_Fraude_cartao)**
 
 ---
 
