@@ -5,7 +5,7 @@
 </p>
 
 # Thiago Ribeiro
-Estudante do curso de Sistemas de Informações no Instuto Federal do Espirito Santo - IFES - campus Cachoeiro de Itapemirim. Atualmente estagiário na Olá Wolff como deselvovedor backend. Voltado ao estudos de ciência de dados e machine learning, criei esse portfolia para organizar e auxiliar nos meus estudos, assim como forecer uma vitrine pessoal para o mercado de trabalho.
+Estudante do curso de Sistemas de Informações no Instuto Federal do Espirito Santo - IFES - campus Cachoeiro de Itapemirim. Voltado ao estudos de ciência de dados e machine learning, criei esse portfolia para organizar e auxiliar nos meus estudos, assim como forecer uma vitrine pessoal para o mercado de trabalho.
 
 **Background in:** Python, Machine Learning, Node, Typescript, Java.
 
@@ -15,12 +15,13 @@ Estudante do curso de Sistemas de Informações no Instuto Federal do Espirito S
 
 ## Projetos:
 
+### Analise de Dados:
+
 * **[Análise dos Dados do Airbnb - San Diego](https://github.com/thiagobcoelho25/analise-airbnb-sigmoidal)**
 * **[Análise Panorama do Covid-19 no Brasil e no Mundo](https://github.com/thiagobcoelho25/Panorama_COVID_19)**
+
+### Machine Learning - Classificação
+
 * **[Detecção de Fraudes em Cartões de Crédito Utilizando Machine Learning](https://github.com/thiagobcoelho25/ML_Deteccao_Fraude_cartao)**
-
----
-
-
-
+* **[Machine Learning para Churn Prediction em Empresa de Telecom](https://github.com/thiagobcoelho25/churn-prediction-sigmoidal)**
 
